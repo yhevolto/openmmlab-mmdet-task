@@ -6,6 +6,10 @@ balloon     video processing
 
 来源：https://github.com/TommyZihao/MMDetection_Tutorials/blob/main/mmdet-0829/%E3%80%90E2%E3%80%91%E6%B0%94%E7%90%83%E6%95%B0%E6%8D%AE%E9%9B%86%20(2).ipynb
 
+# 图像灰度处理
+参考：
+https://blog.csdn.net/m0_68828538/article/details/124284628?spm=1001.2014.3001.5506
+
 # 模型链接：
 链接：https://pan.baidu.com/s/1BomXNOUTbb2OJcM35UcIOQ?pwd=apot 
 提取码：apot 
@@ -31,3 +35,4 @@ balloon     video processing
  segm_mAP_m: 0.6661, segm_mAP_l: 0.8428, 
  
  segm_mAP_copypaste: 0.7763 0.8553 0.8553 0.0000 0.6661 0.8428
+
