@@ -13,4 +13,21 @@ balloon     video processing
 # 模型评价
 
 ![08718JIGOJZKCVK)%7Q B25](https://user-images.githubusercontent.com/62336670/217457416-10c2edef-fa8e-40ac-b3d0-7fbc13f8485d.png)
- mmdet - INFO - Epoch(val) [12][13]	bbox_mAP: 0.7353, bbox_mAP_50: 0.8623, bbox_mAP_75: 0.8313, bbox_mAP_s: 0.0000, bbox_mAP_m: 0.6748, bbox_mAP_l: 0.7956, bbox_mAP_copypaste: 0.7353 0.8623 0.8313 0.0000 0.6748 0.7956, segm_mAP: 0.7763, segm_mAP_50: 0.8553, segm_mAP_75: 0.8553, segm_mAP_s: 0.0000, segm_mAP_m: 0.6661, segm_mAP_l: 0.8428, segm_mAP_copypaste: 0.7763 0.8553 0.8553 0.0000 0.6661 0.8428
+ mmdet - INFO - Epoch(val) [12][13]	
+ bbox_mAP: 0.7353, bbox_mAP_50: 0.8623,
+ 
+ bbox_mAP_75: 0.8313, bbox_mAP_s: 0.0000, 
+ 
+ bbox_mAP_m: 0.6748, bbox_mAP_l: 0.7956,
+ 
+ bbox_mAP_copypaste: 0.7353 0.8623 0.8313 0.0000 0.6748 0.7956, 
+ 
+ segm_mAP: 0.7763, segm_mAP_50: 0.8553,
+ 
+ segm_mAP_75: 0.8553, 
+ 
+ segm_mAP_s: 0.0000, 
+ 
+ segm_mAP_m: 0.6661, segm_mAP_l: 0.8428, 
+ 
+ segm_mAP_copypaste: 0.7763 0.8553 0.8553 0.0000 0.6661 0.8428
